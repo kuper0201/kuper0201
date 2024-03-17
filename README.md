@@ -5,8 +5,7 @@
   ## About me
 
   Hi.
-  
-  ### [Blog](https://jeong-jun.su)
+  [Blog](https://jeong-jun.su)
 
   ## Skills
   
