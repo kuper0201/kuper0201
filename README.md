@@ -1,10 +1,10 @@
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Welcome%20to&fontSize=70&animation=fadeIn&fontAlignY=38&desc=kuper0201's%20Github&descSize=20&descAlignY=51&descAlign=62)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=kuper0201's%20Github&fontSize=40&animation=fadeIn&fontAlignY=35)
 
   <h3>About me</h3>
-
   <h4>» I majored in computer engineering.</br>» My interests are machine learning and mobile development.</br>» Now, I'm learning Flutter and Generative AI.</h4>
+  </br>
   
   <h3>Skills</h3>
   <table>
@@ -32,6 +32,7 @@
       </td>
     </tr>
   </table>
+  </br>
 
   <h3>Projects</h3>
   <table>
@@ -60,6 +61,7 @@
       <td>An android app for categorization files by extension</td>
     </tr>
   </table>
+  </br>
 
   <h3>Contact</h3>
   me@jeong-jun.su  
