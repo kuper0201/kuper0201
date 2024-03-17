@@ -5,11 +5,11 @@
   ## About me
 
   <div align="left">
-  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
   » My major is Computer Engineering.</br>
   » I'm interested in Machine Learning and Mobile Development.</br>
   » Now I'm learning Flutter and Generative AI.
-  </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
+  </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
   </div>
   
   ## Skills
