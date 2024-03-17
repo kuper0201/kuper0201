@@ -5,6 +5,8 @@
   ## About me
   
   » My major is Computer Engineering.
+  » I'm interested in Machine Learning and Mobile Development.
+  » Now I'm learning Flutter and Generative AI.
 
   ## Skills
   
