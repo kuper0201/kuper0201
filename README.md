@@ -1,13 +1,15 @@
-<div align="left">
+<div align="center">
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Welcome%20to&fontSize=70&animation=fadeIn&fontAlignY=38&desc=kuper0201's%20Github&descSize=20&descAlignY=51&descAlign=62)
 
   ## About me
 
   <div align="left">
+  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
   » My major is Computer Engineering.</br>
   » I'm interested in Machine Learning and Mobile Development.</br>
   » Now I'm learning Flutter and Generative AI.
+  </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
   </div>
   
   ## Skills
