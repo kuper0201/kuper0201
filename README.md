@@ -2,18 +2,11 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Welcome%20to&fontSize=70&animation=fadeIn&fontAlignY=38&desc=kuper0201's%20Github&descSize=20&descAlignY=51&descAlign=62)
 
-  ## About me
+  <h3>About me</h3>
 
-  <div align="left">
-  <dl><dd><dl><dd><dl><dd><dl><dd><dl><dd><dl><dd>
-  » My major is Computer Engineering.</br>
-  » I'm interested in Machine Learning and Mobile Development.</br>
-  » Now I'm learning Flutter and Generative AI.
-  </dd></dl></dd></dl></dd></dl></dd></dl></dd></dl></dd></dl>
-  </div>
+  <h4>» I majored in computer engineering.</br>» My interests are machine learning and mobile development.</br>» Now, I'm learning Flutter and Generative AI.</h4>
   
-  ## Skills
-  
+  <h3>Skills</h3>
   <table>
     <tr align="center">
       <th>Languages</th>
@@ -40,18 +33,34 @@
     </tr>
   </table>
 
-  ## Projects
-  
-  |Project|Description|
-  |:---:|---|
-  |[NVMon](https://github.com/kuper0201/NVMon)|A small GUI tool for monitoring NVIDIA GPU|
-  |[LSGAN Bird](https://github.com/kuper0201/LSGAN_Bird)|Implementation of LSGAN paper|
-  |[File Crypto](https://github.com/kuper0201/FileCrypto_Flutter)|A cross platform tool for encrypt/decrypt files using ChaCha20|
-  |[Piano Transcription](https://github.com/kuper0201/Piano_Transcription)|A Machine Learning project for convert audio to MIDI file|
-  |[AutoSort](https://github.com/kuper0201/AutoSort_Android)|An android app for categorization files by extension|
+  <h3>Projects</h3>
+  <table>
+    <tr align="center">
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/kuper0201/NVMon">NVMon</a></td>
+      <td>A small GUI tool for monitoring NVIDIA GPU</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/kuper0201/LSGAN_Bird">LSGAN Bird</a></td>
+      <td>Implementation of LSGAN paper</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/kuper0201/FileCrypto_Flutter">File Crypto</a></td>
+      <td>A cross platform tool for encrypt/decrypt files using ChaCha20</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/kuper0201/Piano_Transcription">Piano Transcription</a></td>
+      <td>A Machine Learning project for convert audio to MIDI file</td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/kuper0201/AutoSort_Android">AutoSort</a></td>
+      <td>An android app for categorization files by extension</td>
+    </tr>
+  </table>
 
-  ## Contact
-  
-  me@jeong-jun.su
-  
+  <h3>Contact</h3>
+  me@jeong-jun.su  
 </div>
