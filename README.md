@@ -4,18 +4,33 @@
   
   ### [Blog](https://jeong-jun.su)
 
-  ### Language
-  
-  ![Java](https://img.shields.io/badge/Java-E89844?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-  
   ### Skills
-
-  ![Android](https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=Android&logoColor=white) ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-
-  ### DevOps
-
-  ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
-
+  
+  <table>
+    <tr align="center">
+      <th>Languages</th>
+      <td>
+        <img alt="Java" src="https://img.shields.io/badge/Java-E89844?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img alt="Python badge" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+        <img alt="C/C++" src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      </td>
+    </tr>
+    <tr align="center">
+      <th>Frameworks</th>
+      <td>
+        <img alt="Android" src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=Android&logoColor=white"/>
+        <img alt="Tensorflow" src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+        <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+      </td>
+    </tr>
+    <tr align="center">
+      <th align="left">Backend</th>
+      <td>
+        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+        <img alt="spring" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+      </td>
+    </tr>
+  </table>
 
   ## Projects
   
