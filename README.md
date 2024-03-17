@@ -24,7 +24,7 @@
       </td>
     </tr>
     <tr align="center">
-      <th align="left">Backend</th>
+      <th>Backend</th>
       <td>
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
         <img alt="spring" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
