@@ -64,5 +64,5 @@
   </br>
 
   <h3>Contact</h3>
-  me@jeong-jun.su  
+  <a href="mailto:﻿me@jeong-jun.su">me@jeong-jun.su</a>
 </div>
