@@ -64,5 +64,10 @@
   </br>
 
   <h3>Contact</h3>
-  <p>Mail : <a href="mailto:﻿me@jeong-jun.su">me@jeong-jun.su</a></p>
+  <a href="mailto:﻿me@jeong-jun.su">
+    <img alt="me@jeong-jun.su" src="https://img.shields.io/badge/Mail-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white"/>
+  </a>
+  <a href="https://jeong-jun.su">
+    <img alt="Blog" src="https://img.shields.io/badge/Blog-663399?style=for-the-badge&logo=gatsby&logoColor=white"/>
+  </a>
 </div>
