@@ -12,7 +12,7 @@
       <th>Languages</th>
       <td>
         <img alt="Java" src="https://img.shields.io/badge/Java-E89844?style=for-the-badge&logo=openjdk&logoColor=white"/>
-        <img alt="Python badge" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
         <img alt="C/C++" src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
       </td>
     </tr>
@@ -28,7 +28,7 @@
       <th>DevOps</th>
       <td>
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-        <img alt="spring" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
       </td>
     </tr>
   </table>
