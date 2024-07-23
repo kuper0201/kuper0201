@@ -60,6 +60,10 @@
       <td><a href="https://github.com/kuper0201/AutoSort_Android">AutoSort</a></td>
       <td>An android app for categorization files by extension</td>
     </tr>
+    <tr align="center">
+      <td><a href="https://github.com/kuper0201/AutoSort_Android">AutoSort</a></td>
+      <td>A Desktop application for ordering photos with GUI</td>
+    </tr>
   </table>
   </br>
 
