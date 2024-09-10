@@ -57,6 +57,10 @@
       <td>A Machine Learning project for convert audio to MIDI file</td>
     </tr>
     <tr align="center">
+      <td><a href="https://github.com/kuper0201/RL_Self_Driving">RL Self Driving</a></td>
+      <td>A Reinforcement Learning project for self-driving cars</td>
+    </tr>
+    <tr align="center">
       <td><a href="https://github.com/kuper0201/VisualPhotoOrder_Flutter">VisualPhotoOrder</a></td>
       <td>A Desktop application for ordering photos with GUI</td>
     </tr>
