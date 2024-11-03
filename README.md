@@ -72,10 +72,10 @@
   </br>
 
   <h3>Contact</h3>
-  <a href="mailto:﻿me@jeong-jun.su">
-    <img alt="me@jeong-jun.su" src="https://img.shields.io/badge/Mail-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white"/>
+  <a href="mailto:﻿me@junsu.me">
+    <img alt="me@junsu.me" src="https://img.shields.io/badge/Mail-0A84FF?style=for-the-badge&logo=thunderbird&logoColor=white"/>
   </a>
-  <a href="https://jeong-jun.su">
+  <a href="https://junsu.me">
     <img alt="Blog" src="https://img.shields.io/badge/Blog-663399?style=for-the-badge&logo=gatsby&logoColor=white"/>
   </a>
 </div>
