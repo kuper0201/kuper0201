@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=170&section=header&text=kuper0201's%20Github&fontSize=40&animation=fadeIn&fontAlignY=35)
 
   <h3>About me</h3>
-  <h4>🎓 I majored in computer engineering.</br>🤔 My interests are machine learning and mobile development.</br>📚 Now, I'm learning Flutter and Generative AI.</h4>
+  <h4>🎓 I majored in computer engineering.</br>🤔 My interests are machine learning and mobile development.</br>📚 Now, I'm studying more Computer Science and AI.</h4>
   </br>
   
   <h3>Skills</h3>
