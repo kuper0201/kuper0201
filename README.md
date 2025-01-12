@@ -61,7 +61,11 @@
       <td>A Reinforcement Learning project for self-driving cars</td>
     </tr>
     <tr align="center">
-      <td><a href="https://github.com/kuper0201/VisualPhotoOrder_Flutter">VisualPhotoOrder</a></td>
+      <td><a href="https://github.com/kuper0201/LaneVision">Lane Vision</a></td>
+      <td>A deep learning project for lane segmentation with Carla Simulator. </td>
+    </tr>
+    <tr align="center">
+      <td><a href="https://github.com/kuper0201/VisualPhotoOrder_Flutter">Visual Photo Order</a></td>
       <td>A Desktop application for ordering photos with GUI</td>
     </tr>
     <tr align="center">
